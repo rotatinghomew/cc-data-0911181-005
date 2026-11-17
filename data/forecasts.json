@@ -1,0 +1,66 @@
+[
+  {
+    "release": "legacy-2026",
+    "course": "C0",
+    "target": "2026-T1",
+    "issued_at": "2025-12-01",
+    "point": 18,
+    "plan": "legacy"
+  },
+  {
+    "release": "legacy-2026",
+    "course": "C1",
+    "target": "2026-T1",
+    "issued_at": "2025-12-01",
+    "point": 20,
+    "plan": "legacy"
+  },
+  {
+    "release": "legacy-2026",
+    "course": "C2",
+    "target": "2026-T1",
+    "issued_at": "2025-12-01",
+    "point": 22,
+    "plan": "legacy"
+  },
+  {
+    "release": "legacy-2026",
+    "course": "C3",
+    "target": "2026-T1",
+    "issued_at": "2025-12-01",
+    "point": 24,
+    "plan": "legacy"
+  },
+  {
+    "release": "legacy-2026",
+    "course": "C4",
+    "target": "2026-T1",
+    "issued_at": "2025-12-01",
+    "point": 26,
+    "plan": "legacy"
+  },
+  {
+    "release": "legacy-2026",
+    "course": "C5",
+    "target": "2026-T1",
+    "issued_at": "2025-12-01",
+    "point": 28,
+    "plan": "legacy"
+  },
+  {
+    "release": "legacy-2026",
+    "course": "C6",
+    "target": "2026-T1",
+    "issued_at": "2025-12-01",
+    "point": 30,
+    "plan": "legacy"
+  },
+  {
+    "release": "legacy-2026",
+    "course": "C7",
+    "target": "2026-T1",
+    "issued_at": "2025-12-01",
+    "point": 32,
+    "plan": "legacy"
+  }
+]

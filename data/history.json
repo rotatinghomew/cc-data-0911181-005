@@ -1,0 +1,514 @@
+[
+  {
+    "course": "C0",
+    "term": "2024-T1",
+    "published_at": "2024-01-01",
+    "seats": 18,
+    "enrolled": 15,
+    "waitlist": null
+  },
+  {
+    "course": "C1",
+    "term": "2024-T1",
+    "published_at": "2024-01-01",
+    "seats": 20,
+    "enrolled": 17,
+    "waitlist": null
+  },
+  {
+    "course": "C2",
+    "term": "2024-T1",
+    "published_at": "2024-01-01",
+    "seats": 22,
+    "enrolled": 19,
+    "waitlist": null
+  },
+  {
+    "course": "C3",
+    "term": "2024-T1",
+    "published_at": "2024-01-01",
+    "seats": 24,
+    "enrolled": 21,
+    "waitlist": null
+  },
+  {
+    "course": "C4",
+    "term": "2024-T1",
+    "published_at": "2024-01-01",
+    "seats": 26,
+    "enrolled": 23,
+    "waitlist": null
+  },
+  {
+    "course": "C5",
+    "term": "2024-T1",
+    "published_at": "2024-01-01",
+    "seats": 28,
+    "enrolled": 25,
+    "waitlist": null
+  },
+  {
+    "course": "C6",
+    "term": "2024-T1",
+    "published_at": "2024-01-01",
+    "seats": 30,
+    "enrolled": 27,
+    "waitlist": null
+  },
+  {
+    "course": "C7",
+    "term": "2024-T1",
+    "published_at": "2024-01-01",
+    "seats": 32,
+    "enrolled": 29,
+    "waitlist": null
+  },
+  {
+    "course": "C0",
+    "term": "2024-T2",
+    "published_at": "2024-04-01",
+    "seats": 18,
+    "enrolled": 18,
+    "waitlist": null
+  },
+  {
+    "course": "C1",
+    "term": "2024-T2",
+    "published_at": "2024-04-01",
+    "seats": 20,
+    "enrolled": 20,
+    "waitlist": null
+  },
+  {
+    "course": "C2",
+    "term": "2024-T2",
+    "published_at": "2024-04-01",
+    "seats": 22,
+    "enrolled": 22,
+    "waitlist": null
+  },
+  {
+    "course": "C3",
+    "term": "2024-T2",
+    "published_at": "2024-04-01",
+    "seats": 24,
+    "enrolled": 24,
+    "waitlist": null
+  },
+  {
+    "course": "C4",
+    "term": "2024-T2",
+    "published_at": "2024-04-01",
+    "seats": 26,
+    "enrolled": 26,
+    "waitlist": null
+  },
+  {
+    "course": "C5",
+    "term": "2024-T2",
+    "published_at": "2024-04-01",
+    "seats": 28,
+    "enrolled": 28,
+    "waitlist": null
+  },
+  {
+    "course": "C6",
+    "term": "2024-T2",
+    "published_at": "2024-04-01",
+    "seats": 30,
+    "enrolled": 30,
+    "waitlist": null
+  },
+  {
+    "course": "C7",
+    "term": "2024-T2",
+    "published_at": "2024-04-01",
+    "seats": 32,
+    "enrolled": 32,
+    "waitlist": null
+  },
+  {
+    "course": "C0",
+    "term": "2024-T3",
+    "published_at": "2024-07-01",
+    "seats": 18,
+    "enrolled": 12,
+    "waitlist": null
+  },
+  {
+    "course": "C1",
+    "term": "2024-T3",
+    "published_at": "2024-07-01",
+    "seats": 20,
+    "enrolled": 14,
+    "waitlist": null
+  },
+  {
+    "course": "C2",
+    "term": "2024-T3",
+    "published_at": "2024-07-01",
+    "seats": 22,
+    "enrolled": 16,
+    "waitlist": null
+  },
+  {
+    "course": "C3",
+    "term": "2024-T3",
+    "published_at": "2024-07-01",
+    "seats": 24,
+    "enrolled": 18,
+    "waitlist": null
+  },
+  {
+    "course": "C4",
+    "term": "2024-T3",
+    "published_at": "2024-07-01",
+    "seats": 26,
+    "enrolled": 20,
+    "waitlist": null
+  },
+  {
+    "course": "C5",
+    "term": "2024-T3",
+    "published_at": "2024-07-01",
+    "seats": 28,
+    "enrolled": 22,
+    "waitlist": null
+  },
+  {
+    "course": "C6",
+    "term": "2024-T3",
+    "published_at": "2024-07-01",
+    "seats": 30,
+    "enrolled": 24,
+    "waitlist": null
+  },
+  {
+    "course": "C7",
+    "term": "2024-T3",
+    "published_at": "2024-07-01",
+    "seats": 32,
+    "enrolled": 26,
+    "waitlist": null
+  },
+  {
+    "course": "C0",
+    "term": "2024-T4",
+    "published_at": "2024-10-01",
+    "seats": 18,
+    "enrolled": 15,
+    "waitlist": null
+  },
+  {
+    "course": "C1",
+    "term": "2024-T4",
+    "published_at": "2024-10-01",
+    "seats": 20,
+    "enrolled": 17,
+    "waitlist": null
+  },
+  {
+    "course": "C2",
+    "term": "2024-T4",
+    "published_at": "2024-10-01",
+    "seats": 22,
+    "enrolled": 19,
+    "waitlist": null
+  },
+  {
+    "course": "C3",
+    "term": "2024-T4",
+    "published_at": "2024-10-01",
+    "seats": 24,
+    "enrolled": 21,
+    "waitlist": null
+  },
+  {
+    "course": "C4",
+    "term": "2024-T4",
+    "published_at": "2024-10-01",
+    "seats": 26,
+    "enrolled": 23,
+    "waitlist": null
+  },
+  {
+    "course": "C5",
+    "term": "2024-T4",
+    "published_at": "2024-10-01",
+    "seats": 28,
+    "enrolled": 25,
+    "waitlist": null
+  },
+  {
+    "course": "C6",
+    "term": "2024-T4",
+    "published_at": "2024-10-01",
+    "seats": 30,
+    "enrolled": 27,
+    "waitlist": null
+  },
+  {
+    "course": "C7",
+    "term": "2024-T4",
+    "published_at": "2024-10-01",
+    "seats": 32,
+    "enrolled": 29,
+    "waitlist": null
+  },
+  {
+    "course": "C0",
+    "term": "2025-T1",
+    "published_at": "2025-01-01",
+    "seats": 18,
+    "enrolled": 18,
+    "waitlist": null
+  },
+  {
+    "course": "C1",
+    "term": "2025-T1",
+    "published_at": "2025-01-01",
+    "seats": 20,
+    "enrolled": 20,
+    "waitlist": null
+  },
+  {
+    "course": "C2",
+    "term": "2025-T1",
+    "published_at": "2025-01-01",
+    "seats": 22,
+    "enrolled": 22,
+    "waitlist": null
+  },
+  {
+    "course": "C3",
+    "term": "2025-T1",
+    "published_at": "2025-01-01",
+    "seats": 24,
+    "enrolled": 24,
+    "waitlist": null
+  },
+  {
+    "course": "C4",
+    "term": "2025-T1",
+    "published_at": "2025-01-01",
+    "seats": 26,
+    "enrolled": 26,
+    "waitlist": null
+  },
+  {
+    "course": "C5",
+    "term": "2025-T1",
+    "published_at": "2025-01-01",
+    "seats": 28,
+    "enrolled": 28,
+    "waitlist": null
+  },
+  {
+    "course": "C6",
+    "term": "2025-T1",
+    "published_at": "2025-01-01",
+    "seats": 30,
+    "enrolled": 30,
+    "waitlist": null
+  },
+  {
+    "course": "C7",
+    "term": "2025-T1",
+    "published_at": "2025-01-01",
+    "seats": 32,
+    "enrolled": 32,
+    "waitlist": null
+  },
+  {
+    "course": "C0",
+    "term": "2025-T2",
+    "published_at": "2025-04-01",
+    "seats": 18,
+    "enrolled": 12,
+    "waitlist": null
+  },
+  {
+    "course": "C1",
+    "term": "2025-T2",
+    "published_at": "2025-04-01",
+    "seats": 20,
+    "enrolled": 14,
+    "waitlist": null
+  },
+  {
+    "course": "C2",
+    "term": "2025-T2",
+    "published_at": "2025-04-01",
+    "seats": 22,
+    "enrolled": 16,
+    "waitlist": null
+  },
+  {
+    "course": "C3",
+    "term": "2025-T2",
+    "published_at": "2025-04-01",
+    "seats": 24,
+    "enrolled": 18,
+    "waitlist": null
+  },
+  {
+    "course": "C4",
+    "term": "2025-T2",
+    "published_at": "2025-04-01",
+    "seats": 26,
+    "enrolled": 20,
+    "waitlist": null
+  },
+  {
+    "course": "C5",
+    "term": "2025-T2",
+    "published_at": "2025-04-01",
+    "seats": 28,
+    "enrolled": 22,
+    "waitlist": null
+  },
+  {
+    "course": "C6",
+    "term": "2025-T2",
+    "published_at": "2025-04-01",
+    "seats": 30,
+    "enrolled": 24,
+    "waitlist": null
+  },
+  {
+    "course": "C7",
+    "term": "2025-T2",
+    "published_at": "2025-04-01",
+    "seats": 32,
+    "enrolled": 26,
+    "waitlist": null
+  },
+  {
+    "course": "C0",
+    "term": "2025-T3",
+    "published_at": "2025-07-01",
+    "seats": 18,
+    "enrolled": 15,
+    "waitlist": null
+  },
+  {
+    "course": "C1",
+    "term": "2025-T3",
+    "published_at": "2025-07-01",
+    "seats": 20,
+    "enrolled": 17,
+    "waitlist": null
+  },
+  {
+    "course": "C2",
+    "term": "2025-T3",
+    "published_at": "2025-07-01",
+    "seats": 22,
+    "enrolled": 19,
+    "waitlist": null
+  },
+  {
+    "course": "C3",
+    "term": "2025-T3",
+    "published_at": "2025-07-01",
+    "seats": 24,
+    "enrolled": 21,
+    "waitlist": null
+  },
+  {
+    "course": "C4",
+    "term": "2025-T3",
+    "published_at": "2025-07-01",
+    "seats": 26,
+    "enrolled": 23,
+    "waitlist": null
+  },
+  {
+    "course": "C5",
+    "term": "2025-T3",
+    "published_at": "2025-07-01",
+    "seats": 28,
+    "enrolled": 25,
+    "waitlist": null
+  },
+  {
+    "course": "C6",
+    "term": "2025-T3",
+    "published_at": "2025-07-01",
+    "seats": 30,
+    "enrolled": 27,
+    "waitlist": null
+  },
+  {
+    "course": "C7",
+    "term": "2025-T3",
+    "published_at": "2025-07-01",
+    "seats": 32,
+    "enrolled": 29,
+    "waitlist": null
+  },
+  {
+    "course": "C0",
+    "term": "2025-T4",
+    "published_at": "2025-10-01",
+    "seats": 18,
+    "enrolled": 18,
+    "waitlist": null
+  },
+  {
+    "course": "C1",
+    "term": "2025-T4",
+    "published_at": "2025-10-01",
+    "seats": 20,
+    "enrolled": 20,
+    "waitlist": null
+  },
+  {
+    "course": "C2",
+    "term": "2025-T4",
+    "published_at": "2025-10-01",
+    "seats": 22,
+    "enrolled": 22,
+    "waitlist": null
+  },
+  {
+    "course": "C3",
+    "term": "2025-T4",
+    "published_at": "2025-10-01",
+    "seats": 24,
+    "enrolled": 24,
+    "waitlist": null
+  },
+  {
+    "course": "C4",
+    "term": "2025-T4",
+    "published_at": "2025-10-01",
+    "seats": 26,
+    "enrolled": 26,
+    "waitlist": null
+  },
+  {
+    "course": "C5",
+    "term": "2025-T4",
+    "published_at": "2025-10-01",
+    "seats": 28,
+    "enrolled": 28,
+    "waitlist": null
+  },
+  {
+    "course": "C6",
+    "term": "2025-T4",
+    "published_at": "2025-10-01",
+    "seats": 30,
+    "enrolled": 30,
+    "waitlist": null
+  },
+  {
+    "course": "C7",
+    "term": "2025-T4",
+    "published_at": "2025-10-01",
+    "seats": 32,
+    "enrolled": 32,
+    "waitlist": null
+  }
+]

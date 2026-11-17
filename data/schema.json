@@ -1,0 +1,107 @@
+{
+  "courses": {
+    "key": [
+      "course"
+    ],
+    "required": [
+      "course",
+      "title",
+      "topic",
+      "campuses",
+      "capacity",
+      "introduced"
+    ],
+    "foreign": {}
+  },
+  "history": {
+    "key": [
+      "course",
+      "term"
+    ],
+    "required": [
+      "course",
+      "term",
+      "published_at",
+      "seats",
+      "enrolled"
+    ],
+    "foreign": {
+      "course": [
+        "courses",
+        "course"
+      ]
+    }
+  },
+  "plans": {
+    "key": [
+      "plan"
+    ],
+    "required": [
+      "plan",
+      "known_at",
+      "target",
+      "courses"
+    ],
+    "foreign": {}
+  },
+  "relations": {
+    "key": [
+      "relation"
+    ],
+    "required": [
+      "relation",
+      "effective",
+      "known_at",
+      "parents",
+      "child",
+      "meaning"
+    ],
+    "foreign": {
+      "child": [
+        "courses",
+        "course"
+      ]
+    }
+  },
+  "reservations": {
+    "key": [
+      "campus",
+      "term"
+    ],
+    "required": [
+      "campus",
+      "term",
+      "teacher_hours"
+    ],
+    "foreign": {}
+  },
+  "forecasts": {
+    "key": [
+      "release",
+      "course"
+    ],
+    "required": [
+      "release",
+      "course",
+      "target",
+      "issued_at",
+      "point",
+      "plan"
+    ],
+    "foreign": {
+      "course": [
+        "courses",
+        "course"
+      ]
+    }
+  },
+  "teachers": {
+    "key": [
+      "teacher"
+    ],
+    "required": [
+      "teacher"
+    ],
+    "foreign": {}
+  }
+}

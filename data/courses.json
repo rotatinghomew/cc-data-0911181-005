@@ -1,0 +1,102 @@
+[
+  {
+    "course": "C0",
+    "title": "手机入门",
+    "topic": "digital",
+    "campuses": [
+      "S0"
+    ],
+    "capacity": 18,
+    "introduced": "2025-T1",
+    "retired": null
+  },
+  {
+    "course": "C1",
+    "title": "手机摄影",
+    "topic": "art",
+    "campuses": [
+      "S1"
+    ],
+    "capacity": 20,
+    "introduced": "2025-T1",
+    "retired": null
+  },
+  {
+    "course": "C2",
+    "title": "国画基础",
+    "topic": "digital",
+    "campuses": [
+      "S2"
+    ],
+    "capacity": 22,
+    "introduced": "2025-T1",
+    "retired": null
+  },
+  {
+    "course": "C3",
+    "title": "声乐入门",
+    "topic": "art",
+    "campuses": [
+      "S0"
+    ],
+    "capacity": 24,
+    "introduced": "2025-T1",
+    "retired": null
+  },
+  {
+    "course": "C4",
+    "title": "手机入门",
+    "topic": "digital",
+    "campuses": [
+      "S1"
+    ],
+    "capacity": 26,
+    "introduced": "2025-T1",
+    "retired": null
+  },
+  {
+    "course": "C5",
+    "title": "手机摄影",
+    "topic": "art",
+    "campuses": [
+      "S2"
+    ],
+    "capacity": 28,
+    "introduced": "2025-T1",
+    "retired": null
+  },
+  {
+    "course": "C6",
+    "title": "国画基础",
+    "topic": "digital",
+    "campuses": [
+      "S0"
+    ],
+    "capacity": 30,
+    "introduced": "2025-T1",
+    "retired": null
+  },
+  {
+    "course": "C7",
+    "title": "声乐入门",
+    "topic": "art",
+    "campuses": [
+      "S1"
+    ],
+    "capacity": 32,
+    "introduced": "2025-T1",
+    "retired": null
+  },
+  {
+    "course": "C8",
+    "title": "手机影像创作",
+    "topic": "digital",
+    "campuses": [
+      "S0",
+      "S1"
+    ],
+    "capacity": 45,
+    "introduced": "2027-T1",
+    "retired": null
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "relation": "merge-1",
+    "effective": "2027-T1",
+    "known_at": "2026-11-01",
+    "parents": [
+      "C0",
+      "C1"
+    ],
+    "child": "C8",
+    "meaning": "shared_offer"
+  }
+]

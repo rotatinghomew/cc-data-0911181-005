@@ -1,0 +1,17 @@
+[
+  {
+    "teacher": "T0",
+    "slots": [
+      "mon-am",
+      "wed-am"
+    ],
+    "capacity": 30
+  },
+  {
+    "teacher": "T1",
+    "slots": [
+      "tue-pm"
+    ],
+    "capacity": 24
+  }
+]

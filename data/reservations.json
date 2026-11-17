@@ -1,0 +1,17 @@
+[
+  {
+    "campus": "S0",
+    "term": "2027-T1",
+    "teacher_hours": 160
+  },
+  {
+    "campus": "S1",
+    "term": "2027-T1",
+    "teacher_hours": 180
+  },
+  {
+    "campus": "S2",
+    "term": "2027-T1",
+    "teacher_hours": 200
+  }
+]
