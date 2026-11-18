@@ -43,9 +43,20 @@ class BusinessChainTests(unittest.TestCase):
 
     def exercise(self,store,journal):
         from app import staffing,teacher_contracts,admissions
-        staffing.propose(store,journal,dict(reservation='r1',courses=['C8'],slots=['mon-am','wed-am']))
-        teacher_contracts.confirm(store,journal,dict(reservation='r1',teacher='T0',slots=['mon-am']))
-        self.assertEqual(admissions.publish(store,journal,dict(reservation='r1',seats=25))['slots'],['mon-am'])
+        proposal=staffing.propose(store,journal,dict(reservation='r1',courses=['C8'],slots=['mon-am','wed-am']))
+        self.assertEqual(proposal['campuses'],['S0','S1'])
+        self.assertGreater(proposal['demand_basis']['total_suggested_seats'],0)
+        # Confirming one of the two requested blocks halves the guaranteed
+        # teacher capacity; the published seats must reflect the remainder.
+        commitment=teacher_contracts.confirm(store,journal,dict(reservation='r1',teacher='T0',slots=['mon-am']))
+        self.assertEqual(commitment['capacity'],15)
+        self.assertEqual(commitment['unconfirmed_slots'],['wed-am'])
+        with self.assertRaises(DataError):
+            admissions.publish(store,journal,dict(reservation='r1',seats=25))
+        self.assertEqual(admissions.publish(store,journal,dict(reservation='r1',seats=15))['slots'],['mon-am'])
+        # A different course combination cannot inherit the confirmed hours.
+        with self.assertRaises(DataError):
+            staffing.propose(store,journal,dict(reservation='r1',courses=['C8','C2'],slots=['mon-am','wed-am']))
         staffing.propose(store,journal,dict(reservation='r2',courses=['C2'],slots=['mon-am']))
         with self.assertRaises(DataError):
             teacher_contracts.confirm(store,journal,dict(reservation='r2',teacher='T0',slots=['mon-am']))
